@@ -3717,7 +3717,7 @@ body.open {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #4285f4;
+  background-color: #A60000;
   overflow: hidden;
   z-index: 1;
 }
@@ -3830,7 +3830,7 @@ ol {
   bottom: 0;
   width: 250px;
   height: 100%;
-  background-color: #3367D6;
+  background-color: #CA4A4A;
   color: #fefefe;
   -webkit-transform: translate(-250px, 0);
   transform: translate(-250px, 0);
@@ -3925,7 +3925,7 @@ main {
     max-width: 864px;
     padding: 0 16px;
     box-sizing: border-box;
-    background-color: #4285f4;
+    background-color: #A60000;
   }
 
   .app-bar .logo {
